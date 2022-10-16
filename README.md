@@ -1,0 +1,1 @@
+Reveal image on hover
